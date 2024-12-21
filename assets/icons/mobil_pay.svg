@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.5" height="18.778" viewBox="0 0 22.5 18.778">
+  <g id="Groupe_459" data-name="Groupe 459" transform="translate(-5.59 -610.536)">
+    <g id="Mobile_card_bank" data-name="Mobile card bank" transform="translate(6.34 611.286)">
+      <path id="Union_1" data-name="Union 1" d="M3.976,17.278c-2.453,0-3.976-2-3.976-4.824V4.825C0,2,1.531,0,3.976,0H14.434c2.089,0,3.505,1.452,3.878,3.631h1.107A1.716,1.716,0,0,1,21,5.457v5.431a1.715,1.715,0,0,1-1.58,1.825H18.406c-.09,2.691-1.6,4.566-3.972,4.566Z" transform="translate(0.001)" fill="none" stroke="#011a3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Tracé_397" data-name="Tracé 397" d="M3.72,5.478v5A1.825,1.825,0,0,0,5.483,12.36H7.732A1.825,1.825,0,0,0,9.5,10.479v-5.6A1.825,1.825,0,0,0,7.733,3H5.483A1.825,1.825,0,0,0,3.72,4.882v.6" transform="translate(11.504 0.508)" fill="none" stroke="#011a3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Tracé_387" data-name="Tracé 387" d="M11.486,10.3H26" transform="translate(-11.486 -4.174)" fill="none" stroke="#011a3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Tracé_388" data-name="Tracé 388" d="M9.486,17.308v.022m-.09-.017a.09.09,0,1,0,.09-.09A.09.09,0,0,0,9.4,17.313Z" transform="translate(8.656 -6.412)" fill="none" stroke="#011a3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

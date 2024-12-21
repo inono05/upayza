@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "helloWorld": "Bonjour le monde",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "english": "Anglais",
+  "french": "Français",
+  "spanish": "Espagnol",
+  "search": "Recherche",
+  "home": "Accueil",
+  "card": "Cartes",
+  "transaction": "Transactions",
+  "history": "Historique",
+  "more": "Plus",
+  "next" : "Continue",
+  "check": "Vérifier"
+}

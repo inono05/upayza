@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="19.5" viewBox="0 0 19.5 19.5">
+  <g id="QR_scan" data-name="QR scan" transform="translate(-2.25 -2.25)">
+    <path id="Tracé_722" data-name="Tracé 722" d="M21,8.469V6.892A3.892,3.892,0,0,0,17.107,3H15.85" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_723" data-name="Tracé 723" d="M3,8.469V6.892A3.892,3.892,0,0,1,6.893,3H8.182" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_724" data-name="Tracé 724" d="M3,15.531v1.577A3.892,3.892,0,0,0,6.893,21H8.15" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_725" data-name="Tracé 725" d="M21,15.531v1.577A3.892,3.892,0,0,1,17.108,21H15.818" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_726" data-name="Tracé 726" d="M9.354,10.277H7.641a.922.922,0,0,1-.922-.922V7.642a.923.923,0,0,1,.922-.923H9.354a.923.923,0,0,1,.922.923V9.355A.922.922,0,0,1,9.354,10.277Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Tracé_727" data-name="Tracé 727" d="M9.425,17.281H7.641a.922.922,0,0,1-.922-.922V14.576a.923.923,0,0,1,.922-.923H9.425a.923.923,0,0,1,.922.923v1.783A.922.922,0,0,1,9.425,17.281Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Tracé_728" data-name="Tracé 728" d="M14.575,6.719h1.783a.922.922,0,0,1,.922.922V9.425a.922.922,0,0,1-.922.922H14.575a.922.922,0,0,1-.922-.922V7.641A.922.922,0,0,1,14.575,6.719Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Tracé_729" data-name="Tracé 729" d="M14.239,17.279h-.06" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_730" data-name="Tracé 730" d="M17.341,17.279h-.06" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_731" data-name="Tracé 731" d="M17.341,14.182h-.06" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_732" data-name="Tracé 732" d="M15.79,15.729h-.06" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Tracé_733" data-name="Tracé 733" d="M14.239,14.182h-.06" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

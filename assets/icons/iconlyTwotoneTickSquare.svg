@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Iconly_Two-tone_Tick-Square" data-name="Iconly/Two-tone/Tick-Square" transform="translate(-2 -2)">
+    <g id="Tick-Square" transform="translate(2 2)">
+      <path id="Stroke-1" d="M14.334.75H5.665C2.644.75.75,2.889.75,5.916v8.168c0,3.027,1.885,5.166,4.915,5.166h8.668c3.031,0,4.917-2.139,4.917-5.166V5.916C19.25,2.889,17.364.75,14.334.75Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <path id="Stroke-3" d="M6.44,10l2.374,2.373L13.56,7.627" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd" opacity="0.4"/>
+    </g>
+  </g>
+</svg>

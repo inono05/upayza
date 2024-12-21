@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97915151460",
+    "project_id": "upayza-cd97a",
+    "storage_bucket": "upayza-cd97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97915151460:android:fca80770fc309db827eb71",
+        "android_client_info": {
+          "package_name": "com.nidriss.upayza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOC-oE8E79uQfmPCfrR8W2PXjzjvlIWLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
